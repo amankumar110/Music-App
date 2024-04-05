@@ -1,6 +1,6 @@
-# Unit Conversion App
+# Music Player APp
 
-An android unit conversion application for Android 7.0 (Nougat) or higher.
+An android music player which supports android 7.0 or higher.
 
 ## Demo:
 
